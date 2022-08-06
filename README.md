@@ -1,12 +1,9 @@
 ### Hola! 👋
-
-  -🎲 I am a student of Geomatics Engineering and Data Science in Valencia, Spain.
   
-  -🎲 I am very interested in automation mathematics as well as data structures and algorithms. 
-  
-  -🎲 I am learning how to automate surveying and how to use geo-referenced data to be able to make maps.
-  
-  -🎲 Another thing I love to work on is predictive and descriptive models in which artificial intelligence models are used.
+  - 🎲 I am a student of Geomatics Engineering and Data Science in Valencia, Spain.
+  - 🎲 I am very interested in automation mathematics as well as data structures and algorithms. 
+  - 🎲 I am learning how to automate surveying and how to use geo-referenced data to be able to make maps.
+  - 🎲 Another thing I love to work on is predictive and descriptive models in which artificial intelligence models are used.
 
 ### Open Source 🖥️
 
