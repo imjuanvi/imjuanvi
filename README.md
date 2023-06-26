@@ -20,7 +20,6 @@
 ### Interesting facts 📖
 
 
-  - 🔭 I’m currently working on networks and servers in some companies
   - 👯 I’m looking to collaborate on Python Projects
-  - 🤔 I’m looking for help with: Learning Rust
-  - 😄 Pronouns: He/Him
+  - 🤔 I’m looking for help with: Learning Rust and QGIS
+  - 😄 Pronouns: He/They
