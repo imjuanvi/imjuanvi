@@ -22,4 +22,4 @@
 
   - 👯 I’m looking to collaborate on Python Projects
   - 🤔 I’m looking for help with: Learning Rust and QGIS
-  - 😄 Pronouns: He/They
+  - 😄 Pronouns: He/Him
